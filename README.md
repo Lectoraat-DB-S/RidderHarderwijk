@@ -22,3 +22,4 @@ mocht je wat inspiratie willen kun je op de github hieronder even kijken.
 https://github.com/matiassingers/awesome-readme
 
 https://integrity.mit.edu/handbook/academic-integrity-handbook
+SemVerbrugh
